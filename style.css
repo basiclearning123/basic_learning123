@@ -1,0 +1,204 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+    
+    margin: 0; 
+	padding: 0;
+    background: url(background2.jpg);
+	background-repeat:no-repeat;      
+	background-size:cover;
+	background-position: bottom;
+	background-attachment: fixed;
+    
+}
+
+#opac{
+   opacity:1;
+}
+
+p{
+text-align:left;
+}
+
+#rem1{
+    float: left;
+    border: 1px solid white;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+#rem2{
+    float: right;
+    border: 1px solid white;
+    padding: 5px;
+}
+
+#sys2{
+    width: 60%;
+    margin: auto;
+}
+#container{
+   
+     color: white;
+   overflow: scroll;
+    width: 100vw;
+	height: 100vh;
+    
+    overflow-x: hidden;
+
+    font-family: 'Quicksand', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    
+}
+#main{
+    min-height: 90vh;
+    padding: 10px;
+    margin: 10px;
+   
+    
+}
+
+#flex-container {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-wrap: wrap;
+  
+    justify-content: space-around;
+    align-items: center;
+}
+  
+#flex-item1 {
+    padding: 10px;
+    margin: 5px;
+    align-self: stretch;
+    
+}
+  
+#flex-item2 {
+    padding: 10px;
+    margin: 5px;
+    align-self: stretch;
+}
+  
+#flex-item3 {
+    padding: 10px;
+    margin: 5px;
+    align-self: stretch;
+}
+  
+
+#bod1{
+    padding: 10px;
+   
+}
+
+#bod2{
+    padding: 10px;
+}
+
+h1{
+    text-align: center;
+    padding: 10px;
+    
+}
+
+h2{
+    
+    text-align: center;
+    padding: 10px;
+    
+    
+    
+}
+
+#sys{
+    
+    width:65%;
+    margin-left: auto;
+    margin-right: auto;
+    padding:10px;
+   
+    border: 1px solid white;
+    border-radius: 10px;
+
+}
+
+#sys p{
+    text-align: center;
+}
+#tb{
+    max-height: 40vh;
+  overflow: auto;
+}
+
+table{
+    margin: auto;
+    border: 1px solid white;
+    
+    width: 90%;
+   
+    overflow-y: auto;
+    overflow-x: auto;
+   padding: 2px;
+   text-align: center;
+   
+}
+
+a{
+    color: blue;
+}
+table  th {
+    border: 1px solid white;
+    padding: 10px;
+    
+}
+
+table  tr td {
+    border: 1px solid white;
+    padding: 10px;
+    
+}
+
+#header{
+    padding: 20px;
+    text-align: center;
+    text-align: justify;
+    
+}
+
+#body1 h3{
+    text-align: left;
+    text-decoration: underline;
+}
+h3{
+    text-decoration: underline;
+}
+#body2 h3{
+    text-align: left;
+    
+}
+
+
+button{
+    float: right;
+    border: 1px solid black;
+    font-size: small;
+    border-radius: 5px;
+    padding: 5px;
+}
+#footer{
+    clear: both;
+    text-align: right;
+    padding: 10px;
+   bottom: 0px;
+    
+    
+}
+
+
+
