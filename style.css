@@ -19,35 +19,18 @@ body{
    opacity:1;
 }
 
-#int{
-    padding-top: 5px;
-    padding-left: 10px;
-}
+
 
 p{
+    margin-left: 10px;
  text-align:left;
- padding-left: 10px;
- padding-top: 5px;
- padding-bottom: 5px;
+ 
+ 
 }
 
-#rem1{
-    float: left;
-    border: 1px solid white;
-    padding: 5px;
-    margin-bottom: 5px;
-}
 
-#rem2{
-    float: right;
-    border: 1px solid white;
-    padding: 5px;
-}
 
-#sys2{
-    width: 60%;
-    margin: auto;
-}
+
 #container{
    
      color: white;
@@ -70,115 +53,43 @@ p{
     
 }
 
-#flex-container {
-    margin-left: auto;
-    margin-right: auto;
-    display: flex;
-    flex-wrap: wrap;
-  
-    justify-content: space-around;
-    align-items: center;
-}
-  
-#flex-item1 {
-    padding: 10px;
-    margin: 5px;
-    align-self: stretch;
-    
-}
-  
-#flex-item2 {
-    padding: 10px;
-    margin: 5px;
-    align-self: stretch;
-}
-  
-#flex-item3 {
-    padding: 10px;
-    margin: 5px;
-    align-self: stretch;
-}
+
   
 
 #bod1{
     
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-bottom: 10px;
+    padding: 10px;
+    text-align: center;
    
 }
 
 #bod2{
     padding: 10px;
-}
-
-h1{
-    text-align: center;
-    padding: 10px;
-    
-}
-
-h2{
-    
-    text-align: center;
-    padding: 10px;
-    
-    
-    
-}
-
-#sys{
-    
-    width:65%;
-    margin-left: auto;
-    margin-right: auto;
-    padding:10px;
-   
-    border: 1px solid white;
-    border-radius: 10px;
-
-}
-
-#sys p{
     text-align: center;
 }
-#tb{
-    max-height: 40vh;
-  overflow: auto;
-}
 
-table{
-    margin: auto;
-    border: 1px solid white;
+
+
+h2,h1{
     
-    width: 90%;
-   
-    overflow-y: auto;
-    overflow-x: auto;
-   padding: 2px;
-   text-align: center;
-   
-}
-
-a{
-    color: blue;
-}
-table  th {
-    border: 1px solid white;
-    padding: 10px;
+    text-align: center;
+    padding: 10px;    
     
 }
 
-table  tr td {
-    border: 1px solid white;
-    padding: 10px;
-    
+h3{
+    margin-left: 10px;
+    float: left;
 }
+
+
 
 #header{
-    padding: 20px;
+    
+    padding: 10px;
     text-align: center;
-    text-align: justify;
+    margin: 10px;
+    
     
 }
 
