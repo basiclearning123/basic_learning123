@@ -29,7 +29,10 @@ p{
 }
 
 
-
+h3{
+    
+    margin: 10px;
+}
 
 #container{
    
@@ -53,7 +56,13 @@ p{
     
 }
 
-
+.sp2{
+    padding-left: 15px;
+}
+  
+.sp1{
+    padding-left: 15px;
+}
   
 
 #bod1{
@@ -77,10 +86,7 @@ h2,h1{
     
 }
 
-h3{
-    margin-left: 10px;
-    float: left;
-}
+
 
 
 
@@ -93,16 +99,9 @@ h3{
     
 }
 
-#body1 h3{
-    text-align: left;
-    text-decoration: underline;
-}
+
 h3{
     text-decoration: underline;
-}
-#body2 h3{
-    text-align: left;
-    
 }
 
 
