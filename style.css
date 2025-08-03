@@ -83,12 +83,12 @@ h3{
 }
 
 
-#sl{
+.sl{
     text-align: center;
     padding: 5px;
 }
 
-#sld{
+.sld{
  border: 1px solid white;
  border-radius: 10px;
  max-width: 95%;
