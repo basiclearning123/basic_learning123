@@ -82,6 +82,18 @@ h3{
     margin-bottom: 5px;
 }
 
+
+#sl{
+    text-align: center;
+    padding: 5px;
+}
+
+#sld{
+ border: 1px solid white;
+ border-radius: 10px;
+ max-width: 95%;
+ margin: auto;
+}
 #p2{
     margin-top: 5px;
     margin-bottom: 5px;
