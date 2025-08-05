@@ -136,6 +136,12 @@ table{
    
 }
 
+button{
+    float: right;
+    border-radius: 10px;
+    padding: 5px;
+}
+
 a{
     color: blue;
 }
