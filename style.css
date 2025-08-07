@@ -118,6 +118,24 @@ h3{
 
 }
 
+#ma6{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+#ma7{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+#ma8{
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
 #tb{
     max-height: 40vh;
   overflow: auto;
@@ -158,6 +176,7 @@ table  tr td {
 }
 
 .qt{
+    padding-left: 10px;
     margin-top: 10px;
     margin-bottom: 10px;
     margin-left: 20px;
